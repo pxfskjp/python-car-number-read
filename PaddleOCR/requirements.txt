@@ -1,0 +1,11 @@
+shapely
+imgaug==0.4.0
+pyclipper
+lmdb
+tqdm
+numpy
+visualdl
+opencv-contrib-python==4.4.0.46
+lxml
+premailer
+openpyxl
